@@ -1,0 +1,72 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    background-color: #ececec !important;
+}
+
+.navbar ul li {
+    font-size: 12px;
+    padding: 0px 17px;
+}
+
+.search-bar {
+    background-color: #f5f5f5;
+    padding: 13px 19px;
+    border: none;
+    outline: none;
+    width: 50%;
+    margin-left: 20px;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+
+.search-container button {
+    outline: none;
+    border: none;
+    color: #fff;
+    background-color: #f57224;
+    margin-left: -5px;
+    border-radius: 2px;
+}
+
+.top-banner {
+    background-color: #f7f7f7;
+}
+
+.card-body:hover {
+    background-color: #fff;
+}
+
+.card-title {
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.card-price {
+    color: #f57224;
+    font-size: 18px;
+}
+
+.card-text {
+    font-size: 12px;
+}
+
+.flashsale-container img,
+.barazmall-container img {
+    height: 200px;
+}
+
+footer {
+    background-color: #2e2e54;
+}
+
+footer h4 {
+    font-size: 18px;
+}
+
+footer p {
+    font-size: 12px;
+    margin: 0px;
+}
